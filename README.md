@@ -282,7 +282,3 @@ npm run dev
 ---
 
 <div align="center">
-
-**Сделано с ❤️ для DevCraft Lab Autumn 2026**
-
-</div>
