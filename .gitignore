@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# БД
+*.db
+*.sqlite3
+quiz.db
+
+# IDE
+.idea/
+.vscode/
+
+# Окружение
+.env
+
+# OS
+.DS_Store
+Thumbs.db
